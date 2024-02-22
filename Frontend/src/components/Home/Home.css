@@ -1,0 +1,8 @@
+.heroSection {
+    background-color: #460582;
+}
+
+.navbar {
+    background: rgb(254,119,254);
+    background: linear-gradient(153deg, rgba(254,119,254,1) 0%, rgba(156,105,187,1) 3%, rgba(69,4,112,1) 95%, rgba(74,61,82,1) 100%);
+}
